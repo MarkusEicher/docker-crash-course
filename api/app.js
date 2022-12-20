@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
     },
     {
       "id":"4",
-      "title":"Comedy Review: The Big Bang Theory"
+      "title":"Comedy Review: Scrubs"
     }
   ])
 })
