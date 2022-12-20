@@ -18,6 +18,10 @@ app.get('/', (req, res) => {
     {
       "id":"3",
       "title":"Show Review: Alice in Borderland"
+    },
+    {
+      "id":"4",
+      "title":"Comedy Review: The Big Bang Theory"
     }
   ])
 })
